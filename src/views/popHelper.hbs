@@ -1,0 +1,10 @@
+{{> header}}
+<ul id="list">
+    {{#each countries}}
+    {{#if (popSize this.population)}}
+    <li style="color: red">{{this.country}} has large population </li>
+    {{else}}
+    <li>{{this.country}} has small population</li>
+    {{/if}}
+    {{/each}}
+</ul>
