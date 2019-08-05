@@ -1,0 +1,8 @@
+{{> header}}
+<ul id="list">
+    {{#each countries}}
+    {{#if city}}
+    <li>the name of country is : {{this.country}} and it's capital city is {{this.city}} </li>
+    {{/if}}
+    {{/each}}
+</ul>

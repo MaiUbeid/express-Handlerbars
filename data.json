@@ -1,0 +1,307 @@
+[
+  {
+    "country": "Anguilla",
+    "population": "8000",
+    "city": "The Valley"
+  },
+  {
+    "country": "Antarctica",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Bangladesh",
+    "population": "129155000",
+    "city": "Dhaka"
+  },
+  {
+    "country": "Bouvet Island",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Brazil",
+    "population": "170115000",
+    "city": "Brasília"
+  },
+  {
+    "country": "British Indian Ocean Territory",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Cayman Islands",
+    "population": "38000",
+    "city": "George Town"
+  },
+  {
+    "country": "China",
+    "population": "1277558000",
+    "city": "Peking"
+  },
+  {
+    "country": "Christmas Island",
+    "population": "2500",
+    "city": "Flying Fish Cove"
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "population": "600",
+    "city": "West Island"
+  },
+  {
+    "country": "Cook Islands",
+    "population": "20000",
+    "city": "Avarua"
+  },
+  {
+    "country": "Egypt",
+    "population": "68470000",
+    "city": "Cairo"
+  },
+  {
+    "country": "England",
+    "population": null,
+    "city": "London"
+  },
+  {
+    "country": "Ethiopia",
+    "population": "78565000",
+    "city": "Addis Abeba"
+  },
+  {
+    "country": "Falkland Islands",
+    "population": "2000",
+    "city": "Stanley"
+  },
+  {
+    "country": "Faroe Islands",
+    "population": "43000",
+    "city": "Tórshavn"
+  },
+  {
+    "country": "French Southern territories",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Germany",
+    "population": "82164700",
+    "city": "Berlin"
+  },
+  {
+    "country": "Gibraltar",
+    "population": "25000",
+    "city": "Gibraltar"
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "population": "1000",
+    "city": "Citt"
+  },
+  {
+    "country": "India",
+    "population": "1013662000",
+    "city": "New Delhi"
+  },
+  {
+    "country": "Indonesia",
+    "population": "237641326",
+    "city": "Jakarta"
+  },
+  {
+    "country": "Iran",
+    "population": "67702000",
+    "city": "Tehran"
+  },
+  {
+    "country": "Japan",
+    "population": "126714000",
+    "city": "Tokyo"
+  },
+  {
+    "country": "Liechtenstein",
+    "population": "32300",
+    "city": "Vaduz"
+  },
+  {
+    "country": "Mexico",
+    "population": "98881000",
+    "city": "Ciudad de M"
+  },
+  {
+    "country": "Micronesia, Federated States of",
+    "population": null,
+    "city": "Palikir"
+  },
+  {
+    "country": "Monaco",
+    "population": "34000",
+    "city": "Monaco-Ville"
+  },
+  {
+    "country": "Montserrat",
+    "population": "11000",
+    "city": "Plymouth"
+  },
+  {
+    "country": "Nauru",
+    "population": "12000",
+    "city": "Yaren"
+  },
+  {
+    "country": "Nigeria",
+    "population": "111506000",
+    "city": "Abuja"
+  },
+  {
+    "country": "Niue",
+    "population": "2000",
+    "city": "Alofi"
+  },
+  {
+    "country": "Norfolk Island",
+    "population": "2000",
+    "city": "Kingston"
+  },
+  {
+    "country": "Northern Ireland",
+    "population": null,
+    "city": "Belfast"
+  },
+  {
+    "country": "Pakistan",
+    "population": "156483000",
+    "city": "Islamabad"
+  },
+  {
+    "country": "Palau",
+    "population": "19000",
+    "city": "Koror"
+  },
+  {
+    "country": "Philippines",
+    "population": "75967000",
+    "city": "Manila"
+  },
+  {
+    "country": "Pitcairn",
+    "population": "50",
+    "city": "Adamstown"
+  },
+  {
+    "country": "Russian Federation",
+    "population": "146934000",
+    "city": "Moscow"
+  },
+  {
+    "country": "Saint Helena",
+    "population": "6000",
+    "city": "Jamestown"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "population": "38000",
+    "city": "Basseterre"
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "population": "7000",
+    "city": "Saint-Pierre"
+  },
+  {
+    "country": "San Marino",
+    "population": "27000",
+    "city": "San Marino"
+  },
+  {
+    "country": "Scotland",
+    "population": null,
+    "city": "Edinburgh"
+  },
+  {
+    "country": "South Georgia and the South Sandwich Islands",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "SriLanka",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "population": "3200",
+    "city": "Longyearbyen"
+  },
+  {
+    "country": "Thailand",
+    "population": "61399000",
+    "city": "Bangkok"
+  },
+  {
+    "country": "The Democratic Republic of Congo",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Tokelau",
+    "population": "2000",
+    "city": "Fakaofo"
+  },
+  {
+    "country": "Turkey",
+    "population": "66591000",
+    "city": "Ankara"
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "population": "17000",
+    "city": "Cockburn Town"
+  },
+  {
+    "country": "Tuvalu",
+    "population": "12000",
+    "city": "Funafuti"
+  },
+  {
+    "country": "United States",
+    "population": "278357000",
+    "city": "Washington"
+  },
+  {
+    "country": "United States Minor Outlying Islands",
+    "population": null,
+    "city": null
+  },
+  {
+    "country": "Vietnam",
+    "population": "79832000",
+    "city": "Hanoi"
+  },
+  {
+    "country": "Virgin Islands, British",
+    "population": null,
+    "city": "Road Town"
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "population": null,
+    "city": "Charlotte Amalie"
+  },
+  {
+    "country": "Wales",
+    "population": null,
+    "city": "Cardiff"
+  },
+  {
+    "country": "Wallis and Futuna",
+    "population": "15000",
+    "city": "Mata-Utu"
+  }
+]
