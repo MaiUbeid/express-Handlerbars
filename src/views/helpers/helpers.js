@@ -1,0 +1,1 @@
+exports.popSize = (size) => size > 1000000 ? true : false
